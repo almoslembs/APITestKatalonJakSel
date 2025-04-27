@@ -7,4 +7,4 @@ How to Run :
 4. Open Test Suites
 5. Run Test Suites
 6. Open Reports
-7. Double click TSJakSel
+7. Double click TSJakSel/Last Reports
